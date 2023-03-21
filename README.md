@@ -9,13 +9,15 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/Margaritka_Tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Margaritka_Tk" target="blank"><img align="center" src="https://img2.freepng.ru/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" alt="mar" height="40" width="60" /></a>
   
 ### Certificates:
 <br>
   <a href="https://github.com/MargaritkaT/yandex_practicum_projects/blob/main/yandex_ad_certificate_en.pdf"><b>Сertificate of Completion of the Data Analyst Professional Training Course(English version)</b> :mortar_board: </a><br>
     <a href="https://github.com/MargaritkaT/yandex_practicum_projects/blob/main/yandex_ad_certificate_rus.pdf"><b>Диплом о профессиональной переподготовке по программе "Аналитик данных" (Russian version)</b> :mortar_board: </a><br>
  <a href="https://stepik.org/cert/1506154"><b>Сертификат о прохождении курса "Поколение Python": курс для начинающих</b> :mortar_board: </a>
+
+ <a href="https://stepik.org/cert/1901198"><b>Сертификат о прохождении курса "Основы статистики"</b> :mortar_board: </a>
 </p><br>
 
 
